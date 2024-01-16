@@ -1,4 +1,7 @@
+### Welcome to my page!
+
 ---
-title: Welcome to my blog
+Daniel Okia
 ---
+###### A dudding data scientist and ML engineer
 
